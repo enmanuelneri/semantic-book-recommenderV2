@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+openai
+chromadb
+langchain[openai]
+langchain[chroma]
+gradio
+notebook
+ipywidgets
+kagglehub
+seaborn
+matplotlib

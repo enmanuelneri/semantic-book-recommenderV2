@@ -22,3 +22,4 @@ permiten a los usuarios interactuar con tus modelos de manera sencilla y visual.
 # Activar el entorno virtual env\Scripts\activate
 # Y para instalar las dependencias que estan en el archivo requirements.txt usa el comando: 
 # pip install -r requirements.txt
+#

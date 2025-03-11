@@ -10,3 +10,4 @@ ipywidgets
 kagglehub
 seaborn
 matplotlib
+kagglehub

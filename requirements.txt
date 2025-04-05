@@ -11,3 +11,5 @@ kagglehub
 seaborn
 matplotlib
 kagglehub
+langchain-community
+langchain-chroma
